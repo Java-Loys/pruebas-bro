@@ -1,0 +1,205 @@
+{
+    "title": "casos-clinicos",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 940,
+            "height": 668,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.wikiuro.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.wikiuro.com/",
+                    "title": "WikiUro"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(1) > div.caso_clinico--content_wrapper img"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[1]/div[2]/div[2]/div[2]/a/img"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > div.caso_clinico--content_wrapper img"
+                ]
+            ],
+            "offsetY": 22.087493896484375,
+            "offsetX": 17.5999755859375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#lista_casos_clinicos > div:nth-of-type(1) button"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[1]/div[2]/div[2]/div[2]/button"
+                ],
+                [
+                    "pierce/#lista_casos_clinicos > div:nth-of-type(1) button"
+                ]
+            ],
+            "offsetY": 24.6875,
+            "offsetX": 91.9375
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.wikiuro.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.wikiuro.com/",
+                    "title": "WikiUro"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(2) > div.caso_clinico--content_wrapper img"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[2]/div[2]/div[2]/div[2]/a/img"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > div.caso_clinico--content_wrapper img"
+                ]
+            ],
+            "offsetY": 5.887481689453125,
+            "offsetX": 33.5999755859375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#lista_casos_clinicos > div:nth-of-type(2) button"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[2]/div[2]/div[2]/div[2]/button"
+                ],
+                [
+                    "pierce/#lista_casos_clinicos > div:nth-of-type(2) button"
+                ]
+            ],
+            "offsetY": 15.48748779296875,
+            "offsetX": 92.9375
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.wikiuro.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.wikiuro.com/",
+                    "title": "WikiUro"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) > div.caso_clinico--content_wrapper img"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[3]/div[2]/div[2]/div[2]/a/img"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > div.caso_clinico--content_wrapper img"
+                ]
+            ],
+            "offsetY": 15.6875,
+            "offsetX": 25.5999755859375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#lista_casos_clinicos > div:nth-of-type(3) button"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[3]/div[2]/div[2]/div[2]/button"
+                ],
+                [
+                    "pierce/#lista_casos_clinicos > div:nth-of-type(3) button"
+                ]
+            ],
+            "offsetY": 15.287490844726562,
+            "offsetX": 114.9375
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.wikiuro.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.wikiuro.com/",
+                    "title": "WikiUro"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(4) > div.caso_clinico--content_wrapper img"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[4]/div[2]/div[2]/div[2]/a/img"
+                ],
+                [
+                    "pierce/div:nth-of-type(4) > div.caso_clinico--content_wrapper img"
+                ]
+            ],
+            "offsetY": 9.48748779296875,
+            "offsetX": 29.5999755859375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#lista_casos_clinicos > div:nth-of-type(4) button"
+                ],
+                [
+                    "xpath///*[@id=\"lista_casos_clinicos\"]/div[4]/div[2]/div[2]/div[2]/button"
+                ],
+                [
+                    "pierce/#lista_casos_clinicos > div:nth-of-type(4) button"
+                ]
+            ],
+            "offsetY": 7.087493896484375,
+            "offsetX": 123.9375
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.wikiuro.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.wikiuro.com/",
+                    "title": "WikiUro"
+                }
+            ]
+        }
+    ]
+}
